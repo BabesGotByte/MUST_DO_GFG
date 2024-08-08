@@ -23,5 +23,5 @@ Arrays:</br>
 1- Equilibrium Point</br>
 Given an array arr of non-negative numbers. The task is to find the first equilibrium point in an array. The equilibrium point in an array is an index (or position) such that the sum of all elements before that index is the same as the sum of elements after it.</br>
 
-2-  </br>
-</br>
+2- Array Leaders</br>
+Given an array arr of n positive integers, your task is to find all the leaders in the array. An element of the array is considered a leader if it is greater than all the elements on its right side or if it is equal to the maximum element on its right side. The rightmost element is always a leader.</br>
