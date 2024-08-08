@@ -31,3 +31,10 @@ Given an unsorted array arr[] of size n. Rotate the array to the left (counter-c
 
 4- Plus One</br>
 Given a non-negative number represented as a list of digits, add 1 to the number (increment the number represented by the digits). The digits are stored such that the most significant digit is first element of array.
+
+5- Alternate positive and negative numbers</br>
+Given an unsorted array Arr of N positive and negative numbers. Your task is to create an array of alternate positive and negative numbers without changing the relative order of positive and negative numbers.
+Note: Array should start with a positive number and 0 (zero) should be considered a positive element.
+
+6-
+</br>
