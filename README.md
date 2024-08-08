@@ -12,5 +12,8 @@ For an integer N find the number of trailing zeroes in N!.</br>
 Given a fraction. Convert it into a decimal. 
 If the fractional part is repeating, enclose the repeating part in parentheses</br>
 
-4- </br>
+4- Nth Natural Number</br>
+Given a positive integer N. You have to find Nth natural number after removing all the numbers containing digit 9.</br>
+
+5- </br>
 </br>
