@@ -15,5 +15,8 @@ If the fractional part is repeating, enclose the repeating part in parentheses</
 4- Nth Natural Number</br>
 Given a positive integer N. You have to find Nth natural number after removing all the numbers containing digit 9.</br>
 
-5- </br>
+5- Smallest Positive Integer that can not be represented as Sum</br>
+Given an array of size N, find the smallest positive integer value that is either not presented in the array or cannot be represented as a sum(coz sum means you are adding two or more elements) of some elements from the array.</br>
+
+6-</br>
 </br>
