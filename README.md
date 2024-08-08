@@ -25,3 +25,8 @@ Given an array arr of non-negative numbers. The task is to find the first equili
 
 2- Array Leaders</br>
 Given an array arr of n positive integers, your task is to find all the leaders in the array. An element of the array is considered a leader if it is greater than all the elements on its right side or if it is equal to the maximum element on its right side. The rightmost element is always a leader.</br>
+
+3- Rotate Array</br>
+Given an unsorted array arr[] of size n. Rotate the array to the left (counter-clockwise direction) by d steps, where d is a positive integer.
+
+4-
