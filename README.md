@@ -36,5 +36,7 @@ Given a non-negative number represented as a list of digits, add 1 to the number
 Given an unsorted array Arr of N positive and negative numbers. Your task is to create an array of alternate positive and negative numbers without changing the relative order of positive and negative numbers.
 Note: Array should start with a positive number and 0 (zero) should be considered a positive element.
 
-6-
-</br>
+6- Product Array Puzzle</br>
+Given an array nums[], construct a Product Array P (of same size n) such that P[i] is equal to the product of all the elements of nums except nums[i].</br>
+
+7-
