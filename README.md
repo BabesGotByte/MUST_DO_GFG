@@ -29,4 +29,5 @@ Given an array arr of n positive integers, your task is to find all the leaders 
 3- Rotate Array</br>
 Given an unsorted array arr[] of size n. Rotate the array to the left (counter-clockwise direction) by d steps, where d is a positive integer.
 
-4-
+4- Plus One</br>
+Given a non-negative number represented as a list of digits, add 1 to the number (increment the number represented by the digits). The digits are stored such that the most significant digit is first element of array.
