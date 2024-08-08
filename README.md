@@ -1,6 +1,6 @@
 # MUST_DO_GFG
 
-Array:</br>
+Maths:</br>
 
 1- Missing in Array </br>
 Given an array arr of size n−1 that contains distinct integers in the range of 1 to n (inclusive), find the missing element. The array is a permutation of size n with one element missing. Return the missing element.</br>
@@ -18,5 +18,7 @@ Given a positive integer N. You have to find Nth natural number after removing a
 5- Smallest Positive Integer that can not be represented as Sum</br>
 Given an array of size N, find the smallest positive integer value that is either not presented in the array or cannot be represented as a sum(coz sum means you are adding two or more elements) of some elements from the array.</br>
 
-6-</br>
+Arrays:</br>
+
+1-</br>
 </br>
